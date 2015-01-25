@@ -86,6 +86,7 @@
   <ItemGroup>
     <ClInclude Include="ChiliMath.h" />
     <ClInclude Include="Colors.h" />
+    <ClInclude Include="Cordenant.h" />
     <ClInclude Include="D3DGraphics.h" />
     <ClInclude Include="FrameTimer.h" />
     <ClInclude Include="Game.h" />
@@ -94,6 +95,7 @@
     <ClInclude Include="Rect.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="Sound.h" />
+    <ClInclude Include="StringHelpers.h" />
     <ClInclude Include="Timer.h" />
     <ClInclude Include="Vec2.h" />
   </ItemGroup>
